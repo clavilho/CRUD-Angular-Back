@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ford Ka",
+      "price": 12000.589
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "price": 12000.589
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000.89
+    }
+  ]
+}
